@@ -28,8 +28,6 @@ This project implements **image steganography** using **Least Significant Bit (L
 - **VS Code** – Used for writing and debugging code.  
 - **GitHub** – Version control and project sharing.  
 
-## 📸 Screenshots  
-*(Include at least 3 screenshots of your working project.)*  
 
 ## 🔧 Installation & Usage  
 
